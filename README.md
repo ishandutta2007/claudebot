@@ -1,8 +1,3 @@
-# Claudebot
-
-Here is a modern, well-structured, highly SEO-optimized `README.md` for a GitHub repository named **claudebot** — an AI assistant powered by Claude (Anthropic) for Desktop/PC use.
-
-```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/ClaudeBot-AI%20Desktop%20Assistant-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1E1B4B" alt="ClaudeBot - Claude AI Desktop Assistant">
   <br><br>
@@ -208,18 +203,3 @@ Made with ❤️ and Claude
 <br>
 
 **Keywords:** Claude AI desktop app, Claude desktop assistant, Anthropic Claude client, local LLM desktop, AI assistant for PC, Claude chatbot offline, best Claude wrapper desktop, privacy focused AI assistant
-```
-
-### SEO & GitHub optimization notes built-in:
-
-- Keyword-rich title & headings
-- Badges with searchable terms
-- Clear feature table (good for Google featured snippets)
-- Search-friendly phrases repeated naturally
-- Strong call-to-action (stars/forks)
-- Long descriptive content → better ranking
-- Organized sections → good for GitHub search & Google
-
-You can replace placeholder images with real screenshots later (highly recommended — GitHub README with images ranks much better).
-
-Let me know if you'd like a lighter version, Electron/Tauri specific adjustments, or more sections! 🚀
