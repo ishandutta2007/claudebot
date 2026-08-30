@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://github.com/ishandutta2007/claudebot">
+    <img src="assets/banner.svg" alt="ClaudeBot Dynamic Banner" width="100%">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ClaudeBot-AI%20Desktop%20Assistant-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1E1B4B" alt="ClaudeBot - Claude AI Desktop Assistant">
   <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
